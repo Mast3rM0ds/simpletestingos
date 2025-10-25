@@ -1,7 +1,7 @@
 ---
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
 # image will be published to ghcr.io/<user>/<name>
-name: template
+name: LIDUZ X25
 # description will be included in the image's metadata
 description: This is my personal OS image.
 
@@ -38,7 +38,7 @@ modules:
         scope: system
         # If no repo information is specified, Flathub will be used by default
         install: # system flatpaks we want all users to have and not remove
-          - org.mozilla.firefox
+          - app.zen_browser.zen
           - org.gnome.Loupe
       - scope: user # Also add Flathub user repo, but no user packages
 
