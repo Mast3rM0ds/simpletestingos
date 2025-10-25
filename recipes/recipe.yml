@@ -20,7 +20,7 @@ modules:
   - type: dnf
     repos:
       copr:
-        - atim/starship/fedora-41-x86_64
+        - atim/starship
     install:
       packages:
         - fastfetch
