@@ -1,0 +1,10 @@
+NAME="so-OS"
+VERSION="1.0 (Orion)"
+ID=soos
+ID_LIKE=fedora
+VERSION_ID=1
+PRETTY_NAME="so-OS 1.0 (Orion)"
+ANSI_COLOR="0;34"
+LOGO=yourdistro
+HOME_URL="https://echointeractive.xyz/"
+BUG_REPORT_URL="https://github.com/Mast3rM0ds/simpletestingos/issues"
